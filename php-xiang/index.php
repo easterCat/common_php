@@ -537,21 +537,24 @@ require dirname(__FILE__) . '/compoent/common_inc.php';
 		//转换成硬路径
 		?>
 	</body>
-	<script src="js/common/jquery.slicebox.js"></script>
-	<script type="text/javascript" src="seajs/sea.js"></script>
+	<script type="text/javascript" src="js/sea.js"></script>
 	<script type="text/javascript" src="js/modernizr.custom.46884.js"></script>
 	<script>
 		//配置参数
 		seajs.config({
-			base: "../seajs/",
+			base:'./js/',
+			paths: {
+				"lib":"./lib/"
+			},
 			alias: {
-				"jquery":"../js/common/jquery.min.js",
-				"bootstrap":"../js/common/bootstrap.min.js",
-				"slicebox": "../js/common/jquery.slicebox.js",
+				"jquery":"lib/jquery.min",
+				"bootstrap":"lib/bootstrap.min",
+				"slicebox": "lib/slicebox",
 			}
 		});
 		//加载入口模块
-		seajs.use(["../php-xiang/js/ec-index","../php-xiang/js/ec-initSliceBox"],function(modA,modB){
+		seajs.use(["ec-index","ec-initSliceBox"],function(modA,modB){
+			console.log(modA);
 			modA.init();
 			modB.init();
 		});

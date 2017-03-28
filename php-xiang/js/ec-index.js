@@ -1,5 +1,5 @@
 define(function(require, exports, module) {
-    var jquery = require("jquery");
+    var $ = require("jquery");
 
 	var Index = (function() {
 		var speed = 300, //滑动的速度
