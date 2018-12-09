@@ -2,13 +2,20 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8c6aa0-b9ce-4123-8049-f77ead8511be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php-practice/Array/traverse.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/Array/xuandawang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-fullpage/web/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-fullpage/web/index.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study05-array/demo01.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/Array/demo01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study05-array/demo02.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/Array/demo02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study05-array/demo03.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/Array/demo03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study06/demo01.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study06/file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-practice/array/each.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-practice/array/global.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-practice/array/list.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/php-practice/array/position.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TM/TM/04/shop/js/jquery-2.0.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/TM/TM/04/shop/js/jquery-2.0.3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-fullpage/web/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/php-fullpage/web/js/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/Array/demo01.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/demo01.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/Array/demo02.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/demo02.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/Array/demo03.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/demo03.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/Array/traverse.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/traverse.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/Array/xuandawang.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/xuandawang.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-xiang/js/lib/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/php-xiang/js/lib/jquery.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-xiang/js/modernizr.custom.46884.js" beforeDir="false" afterPath="$PROJECT_DIR$/php-xiang/js/modernizr.custom.46884.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -18,29 +25,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-practice/Array/demo02.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="725">
-              <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-practice/Array/demo03.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="7" selection-start-line="7" selection-end-line="8" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php-practice/Array/traverse.php">
+        <entry file="file://$PROJECT_DIR$/php-practice/array/global.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="150">
-              <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+            <state relative-caret-position="350">
+              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <folding>
+                <element signature="e#6#85#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -60,6 +52,9 @@
         <option value="$PROJECT_DIR$/php-practice/Array/xuandawang.php" />
         <option value="$PROJECT_DIR$/php-practice/Array/demo02.php" />
         <option value="$PROJECT_DIR$/php-practice/Array/demo03.php" />
+        <option value="$PROJECT_DIR$/php-practice/Array/list.php" />
+        <option value="$PROJECT_DIR$/php-practice/Array/each.php" />
+        <option value="$PROJECT_DIR$/php-practice/Array/global.php" />
       </list>
     </option>
   </component>
@@ -74,6 +69,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -90,13 +86,12 @@
               <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
               <item name="easter_php" type="462c0819:PsiDirectoryNode" />
               <item name="php-practice" type="462c0819:PsiDirectoryNode" />
-              <item name="Array" type="462c0819:PsiDirectoryNode" />
+              <item name="array" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -105,6 +100,11 @@
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\easter_php\php-practice\Array" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -133,22 +133,23 @@
       <workItem from="1543808797591" duration="58000" />
       <workItem from="1543808864845" duration="995000" />
       <workItem from="1543910878845" duration="206000" />
-      <workItem from="1544336706165" duration="6718000" />
+      <workItem from="1544336706165" duration="6787000" />
+      <workItem from="1544346475923" duration="5641000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9773000" />
+    <option name="totallyTimeSpent" value="15483000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26378897" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26658672" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32954547" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
@@ -157,7 +158,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.32954547" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -177,7 +178,7 @@
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/php-practice/Array/demo01.php</url>
+          <url>file://$PROJECT_DIR$/php-practice/array/demo01.php</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -202,38 +203,69 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/Array/xuandawang.php">
+    <entry file="file://$PROJECT_DIR$/php-practice/array/xuandawang.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
           <caret line="25" column="28" lean-forward="true" selection-start-line="25" selection-start-column="28" selection-end-line="25" selection-end-column="28" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/Array/demo01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/Array/demo02.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" column="2" selection-start-line="29" selection-start-column="2" selection-end-line="29" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/Array/demo03.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="7" selection-start-line="7" selection-end-line="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/Array/traverse.php">
+    <entry file="file://$PROJECT_DIR$/php-practice/array/traverse.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/demo03.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/list.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="275">
+          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/each.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/position.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/demo02.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/demo01.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/global.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <folding>
+            <element signature="e#6#85#0#PHP" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
