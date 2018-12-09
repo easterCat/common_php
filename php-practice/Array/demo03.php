@@ -4,9 +4,6 @@ $array = sort($array);
 print_r($array);
 
 
-
-
-
 //if (get_magic_quotes_gpc()) {
 //	echo 'true';
 //}else{
