@@ -2,20 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8c6aa0-b9ce-4123-8049-f77ead8511be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php-practice/array/each.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/array/global.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/array/list.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/array/position.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TM/TM/04/shop/js/jquery-2.0.3.js" beforeDir="false" afterPath="$PROJECT_DIR$/TM/TM/04/shop/js/jquery-2.0.3.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-fullpage/web/js/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/php-fullpage/web/js/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/Array/demo01.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/demo01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/Array/demo02.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/demo02.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/Array/demo03.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/demo03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/Array/traverse.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/traverse.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/Array/xuandawang.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/array/xuandawang.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-xiang/js/lib/jquery.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/php-xiang/js/lib/jquery.min.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-xiang/js/modernizr.custom.46884.js" beforeDir="false" afterPath="$PROJECT_DIR$/php-xiang/js/modernizr.custom.46884.js" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -29,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/php-practice/array/global.php">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="350">
-              <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+              <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
               <folding>
                 <element signature="e#6#85#0#PHP" expanded="true" />
               </folding>
@@ -58,7 +45,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds" extendedState="7">
     <option name="x" value="454" />
     <option name="y" value="184" />
     <option name="width" value="1400" />
@@ -134,18 +121,20 @@
       <workItem from="1543808864845" duration="995000" />
       <workItem from="1543910878845" duration="206000" />
       <workItem from="1544336706165" duration="6787000" />
-      <workItem from="1544346475923" duration="5641000" />
+      <workItem from="1544346475923" duration="6283000" />
+      <workItem from="1544363618836" duration="153000" />
+      <workItem from="1544406322135" duration="1693000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15483000" />
+    <option name="totallyTimeSpent" value="17971000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="2576" height="1416" extended-state="6" />
+    <frame x="-8" y="-8" width="2576" height="1416" extended-state="7" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26658672" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27218226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -262,7 +251,7 @@
     <entry file="file://$PROJECT_DIR$/php-practice/array/global.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="350">
-          <caret line="14" column="1" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
+          <caret line="14" column="1" lean-forward="true" selection-start-line="14" selection-start-column="1" selection-end-line="14" selection-end-column="1" />
           <folding>
             <element signature="e#6#85#0#PHP" expanded="true" />
           </folding>
