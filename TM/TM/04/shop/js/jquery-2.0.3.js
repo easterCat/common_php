@@ -277,7 +277,7 @@
 		},
 
 		// For internal use only.
-		// Behaves like an Array's method, not like a jQuery method.
+		// Behaves like an array's method, not like a jQuery method.
 		push: core_push,
 		sort: [].sort,
 		splice: [].splice
@@ -845,7 +845,7 @@
 	};
 
 	// Populate the class2type map
-	jQuery.each("Boolean Number String Function Array Date RegExp Object Error".split(" "), function(i, name) {
+	jQuery.each("Boolean Number String Function array Date RegExp Object Error".split(" "), function(i, name) {
 		class2type["[object " + name + "]"] = name.toLowerCase();
 	});
 
