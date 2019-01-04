@@ -2,26 +2,24 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8c6aa0-b9ce-4123-8049-f77ead8511be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/php-practice/hphp/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/hphp/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/hphp/core/autoload.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/hphp/core/common/function.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/hphp/core/route.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/hphp/core/vk.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/php-practice/hphp/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/app/smarty/templates/index/render2.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/app/view/index/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/config/db_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/config/route_config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/core/common/db.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/core/conf.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/core/log.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hphp/core/render.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo01.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo01.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo02量词.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo02量词.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo03.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo03.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo04.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo04.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo05.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo05.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo06.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo06.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo07.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo07.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo08.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo08.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo09.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo09.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo10.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo10.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo11.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo11.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/study09-正则表达式/demo12.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-practice/study09/demo12.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/hphp/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/.htaccess" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/hphp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/autoload.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/common/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/common/function.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/route.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/vk.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/vk.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-practice/hphp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/index.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -30,40 +28,45 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-practice/hphp/index.php">
+        <entry file="file://$PROJECT_DIR$/hphp/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="594">
-              <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
+            <state relative-caret-position="216">
+              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-practice/hphp/.htaccess">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/php-practice/hphp/core/autoload.php">
+        <entry file="file://$PROJECT_DIR$/hphp/core/log.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+            <state relative-caret-position="405">
+              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+              <folding>
+                <element signature="e#6#84#0#PHP" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php-practice/hphp/core/route.php">
+        <entry file="file://$PROJECT_DIR$/hphp/composer.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="513">
-              <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+            <state relative-caret-position="621">
+              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -102,13 +105,28 @@
         <option value="$PROJECT_DIR$/php-practice/hphp/core/common/function.php" />
         <option value="$PROJECT_DIR$/php-practice/hphp/core/vk.php" />
         <option value="$PROJECT_DIR$/php-practice/hphp/autoload.php" />
-        <option value="$PROJECT_DIR$/php-practice/hphp/index.php" />
         <option value="$PROJECT_DIR$/php-practice/hphp/.htaccess" />
+        <option value="$PROJECT_DIR$/php-practice/hphp/core/common/db.php" />
         <option value="$PROJECT_DIR$/php-practice/hphp/core/route.php" />
+        <option value="$PROJECT_DIR$/php-practice/hphp/app/view/index/render.html" />
+        <option value="$PROJECT_DIR$/php-practice/hphp/app/ctrl/indexCtrl.php" />
+        <option value="$PROJECT_DIR$/php-practice/hphp/core/render.php" />
+        <option value="$PROJECT_DIR$/php-practice/hphp/index.php" />
+        <option value="$PROJECT_DIR$/hphp/app/smarty/templates/render2.html" />
+        <option value="$PROJECT_DIR$/hphp/core/render.php" />
+        <option value="$PROJECT_DIR$/hphp/core/conf.php" />
+        <option value="$PROJECT_DIR$/hphp/config/route_config.php" />
+        <option value="$PROJECT_DIR$/hphp/config/db_config.php" />
+        <option value="$PROJECT_DIR$/hphp/core/route.php" />
+        <option value="$PROJECT_DIR$/hphp/core/common/db.php" />
+        <option value="$PROJECT_DIR$/hphp/index.php" />
+        <option value="$PROJECT_DIR$/hphp/log/log.php" />
+        <option value="$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php" />
+        <option value="$PROJECT_DIR$/hphp/composer.json" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="14" />
     <option name="y" value="13" />
     <option name="width" value="2532" />
@@ -119,6 +137,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -129,34 +148,51 @@
             <path>
               <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
               <item name="easter_php" type="462c0819:PsiDirectoryNode" />
-              <item name="php-practice" type="462c0819:PsiDirectoryNode" />
+              <item name="hphp" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
               <item name="easter_php" type="462c0819:PsiDirectoryNode" />
-              <item name="php-practice" type="462c0819:PsiDirectoryNode" />
               <item name="hphp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easter_php" type="462c0819:PsiDirectoryNode" />
+              <item name="hphp" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="ctrl" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
+              <item name="easter_php" type="462c0819:PsiDirectoryNode" />
+              <item name="hphp" type="462c0819:PsiDirectoryNode" />
+              <item name="log" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api.photo" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\myProjects\easter_php\php-practice\hphp\core" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\easter_php\php-practice\Array" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myProjects\easter_php\hphp\core" />
+      <recent name="D:\myProjects\easter_php\hphp\app\smarty\templates\index" />
+      <recent name="D:\myProjects\easter_php\hphp\lib" />
+      <recent name="D:\myProjects\easter_php" />
+      <recent name="D:\myProjects\easter_php\php-practice\hphp\core" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -197,7 +233,8 @@
       <workItem from="1545027413031" duration="1340000" />
       <workItem from="1545186622982" duration="485000" />
       <workItem from="1546497162557" duration="611000" />
-      <workItem from="1546518451727" duration="5655000" />
+      <workItem from="1546518451727" duration="6884000" />
+      <workItem from="1546568539950" duration="14452000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1544939444674</created>
@@ -210,13 +247,12 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46528000" />
+    <option name="totallyTimeSpent" value="62209000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="13" width="2532" height="1380" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14768104" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14930838" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -229,7 +265,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" order="10" weight="0.24498327" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24498327" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -261,16 +297,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/TM/TM/01/99Pursey/release_ok.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-fullpage/web/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="200">
-          <caret line="36" column="19" selection-start-line="36" selection-start-column="19" selection-end-line="36" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/php-practice/study06/file.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="500">
@@ -348,23 +374,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/sort.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="327">
-          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/array_func.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="550">
-          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding>
-            <element signature="e#6#86#0#PHP" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -478,7 +487,7 @@
     <entry file="file://$PROJECT_DIR$/TM/TM/04/shop.sql">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/hphp/README.md">
+    <entry file="file://$PROJECT_DIR$/hphp/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
           <first_editor />
@@ -486,41 +495,148 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/hphp/core/vk.php">
+    <entry file="file://$PROJECT_DIR$/hphp/.htaccess">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/vk.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
           <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/hphp/core/autoload.php">
+    <entry file="file://$PROJECT_DIR$/hphp/core/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="15" column="46" lean-forward="true" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
+          <caret line="15" column="46" selection-start-line="15" selection-start-column="46" selection-end-line="15" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/hphp/.htaccess">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/hphp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="594">
-          <caret line="27" column="27" selection-start-line="27" selection-start-column="27" selection-end-line="27" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/hphp/core/common/function.php">
+    <entry file="file://$PROJECT_DIR$/hphp/core/common/function.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
           <caret line="13" column="23" selection-start-line="13" selection-start-column="23" selection-end-line="13" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/hphp/core/route.php">
+    <entry file="file://$PROJECT_DIR$/php-practice/array/sort.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="42" column="52" selection-start-line="42" selection-start-column="52" selection-end-line="42" selection-end-column="52" />
+        <state relative-caret-position="198">
+          <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-practice/array/array_func.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <element signature="e#6#86#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/app/smarty/templates/index/render2.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/app/view/index/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="10" column="7" lean-forward="true" selection-start-line="10" selection-start-column="7" selection-end-line="10" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/lib/smarty/libs/sysplugins/smarty_internal_templatebase.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="381">
+          <caret line="130" column="20" selection-start-line="130" selection-start-column="20" selection-end-line="130" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/render.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/common/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/config/db_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="12" column="2" lean-forward="true" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/route.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="21" column="21" lean-forward="true" selection-start-line="21" selection-start-column="21" selection-end-line="21" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/config/route_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="10" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/log/log_test-20190104105301.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/log/l;og_test-20190104105231.log">
+      <provider selected="true" editor-type-id="LogFileEditorProvider">
+        <state>
+          <caret column="33" lean-forward="true" selection-start-column="33" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/log.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
+          <folding>
+            <element signature="e#6#84#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
         </state>
       </provider>
     </entry>
