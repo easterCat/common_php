@@ -7,7 +7,7 @@ class render{
     public $smarty;
     public function __construct(){
 
-        require_once(LIB.'/smarty/libs/Smarty.class.php');
+//        require_once(LIB.'/smarty/libs/Smarty.class.php');
 
         $this->smarty = new \Smarty();
 

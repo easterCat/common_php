@@ -10,7 +10,7 @@ namespace core;
 
 class conf
 {
-    public function get($name, $file)
+    public static function get($name, $file)
     {
         $file_path = CONFIG . '/' . $file . '.php';
         if (is_file($file_path)) {
@@ -25,7 +25,7 @@ class conf
         }
     }
 
-    public function all($file)
+    public static function all($file)
     {
         $file_path = CONFIG . '/' . $file . '.php';
         if (is_file($file_path)) {

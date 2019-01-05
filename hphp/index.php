@@ -9,14 +9,18 @@
 define('VKPHP', realpath('./'));
 define('CORE', VKPHP . './core');
 define('APP', VKPHP . './app');
-define('LIB', VKPHP . './lib');
+define('LIB', VKPHP . './vendor');
 define('CONFIG', VKPHP . './config');
 define('LOG', VKPHP . './log');
-
 define('DEBUG', true);
+
+include LIB . '/autoload.php'; //自动加载第三方库
 
 if (DEBUG) {
     ini_set('display_errors', 'On');
+    $whoops = new \Whoops\Run;
+    $whoops->pushHandler(new \Whoops\Handler\PrettyPageHandler);
+    $whoops->register();
 } else {
     ini_set('display_errors', 'Off');
 }

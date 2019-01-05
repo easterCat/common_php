@@ -27,4 +27,19 @@ class indexCtrl extends \core\render
         $log->log('this is log', 'log_test');
         echo 'success';
     }
+
+    public function data()
+    {
+        $db = new \core\common\db();
+        $sql = 'select * from vk_user';
+        $result = $db->query($sql);
+        dump($result);
+        dump($result->fetchAll());
+    }
+
+    public function medoo()
+    {
+        $medoo = new \core\medoo();
+        dump($medoo);
+    }
 }
