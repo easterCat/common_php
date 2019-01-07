@@ -91,6 +91,8 @@ server {
 - 新建index.php
 `sudo vi index.php`
 
+#### 其他机器访问
+
 访问base.com,此时是没有找到的
 
 - 修改/etc/hosts
