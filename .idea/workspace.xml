@@ -15,20 +15,7 @@
     <pharConfigPath>$PROJECT_DIR$/hphp/composer.json</pharConfigPath>
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="189">
-                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -221,7 +208,7 @@
       <workItem from="1546691228904" duration="9716000" />
       <workItem from="1546757020103" duration="11003000" />
       <workItem from="1546769411892" duration="2793000" />
-      <workItem from="1546826411132" duration="8981000" />
+      <workItem from="1546826411132" duration="9142000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1544939444674</created>
@@ -237,17 +224,23 @@
       <option name="project" value="LOCAL" />
       <updated>1546842243749</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="jp">
+      <created>1546848169525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546848169525</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="100526000" />
+    <option name="totallyTimeSpent" value="100687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="13" width="2532" height="1380" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16069975" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16069975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -661,8 +654,8 @@
     <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="189">
-            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
+          <first_editor relative-caret-position="925">
+            <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
           </first_editor>
           <second_editor />
         </state>

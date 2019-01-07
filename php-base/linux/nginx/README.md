@@ -50,3 +50,7 @@ server {
 保存配置访问 http://localhost/phpinfo.php ,如果出现下图内容,就ok
 ![03](https://github.com/easterCat/easter_php/blob/master/php-base/linux/nginx/03.png?raw=true)
 ![04](https://github.com/easterCat/easter_php/blob/master/php-base/linux/nginx/04.png?raw=true)
+
+
+- [Deepin 15 搭建LNMP环境](https://www.jianshu.com/p/683be04713ad)
+- [linux 下vim的使用](https://blog.csdn.net/yangshuainan/article/details/78219604)
