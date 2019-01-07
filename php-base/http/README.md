@@ -43,3 +43,7 @@
 #### refer防盗链
 
 #### http协议缓存控制
+
+#### http压缩 
+- Content-Encoding:gzip
+> 为了提高网页在网络上的传输速度,服务器对主体信息就行压缩(gzip,compress,sdch)

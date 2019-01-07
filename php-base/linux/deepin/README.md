@@ -45,7 +45,9 @@ export PATH="$PATH:/home/jp/node/bin"    //(export PATH="$PATH:/home/xxx/你的n
 
 使用
 1. pm2 start anyproxy
+
 ![pm2启动](https://github.com/easterCat/easter_php/blob/master/php-base/linux/deepin/05.png?raw=true)
+
 2. pm2 stop anyproxy
 3. pm2 restart anyproxy
 

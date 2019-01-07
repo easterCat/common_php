@@ -7,7 +7,7 @@
  */
 
 
-$path = "D:\\easter_php\\php-practice\\file\\demo.txt";
+$path = "D:\\easter_php\\php-base\\file\\demo.txt";
 
 readfile($path);
 
