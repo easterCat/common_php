@@ -51,6 +51,57 @@ server {
 ![03](https://github.com/easterCat/easter_php/blob/master/php-base/linux/nginx/03.png?raw=true)
 ![04](https://github.com/easterCat/easter_php/blob/master/php-base/linux/nginx/04.png?raw=true)
 
+#### 新建站点
+- 创建站点根目录
+`sudo mkdir /var/www/base.com`
+- 配置站点文件
+```
+sudo cp /etc/nginx/sites-available/default  /etc/nginx/sites-available/admin.com
+sudo vim /etc/nginx/sites-available/admin.com
+
+//配置文件如下
+server {
+    listen 80;
+
+    server_name example.com;
+
+    root /var/www/admin.com;
+    index index.html index.php;
+
+    location / {
+        try_files $uri $uri/ =404;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+    
+        fastcgi_pass unix:/var/run/php7.1-fpm.sock;
+    }
+}
+```
+- 保存文件后，创建一个软链接到sites-enabled
+`sudo ln -s /etc/nginx/sites-available/admin.com /etc/nginx/sites-enabled/admin.com`
+
+- 重新加载ngnix配置文件，即完成网站添加
+`sudo systemctl reload nginx.service`
+
+- 进入目录
+`sudo cd /var/www/base.com`
+
+- 新建index.php
+`sudo vi index.php`
+
+访问base.com,此时是没有找到的
+
+- 修改hosts
+```
+127.0.0.1  base.com
+```
+![05](https://github.com/easterCat/easter_php/blob/master/php-base/linux/nginx/05.png?raw=true)
+
+
+***
 
 - [Deepin 15 搭建LNMP环境](https://www.jianshu.com/p/683be04713ad)
 - [linux 下vim的使用](https://blog.csdn.net/yangshuainan/article/details/78219604)
+- [网络管理](https://wiki.deepin.org/wiki/网络管理)
