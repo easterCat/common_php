@@ -2,14 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8c6aa0-b9ce-4123-8049-f77ead8511be" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/easter-php.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/easter-php.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/php.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/php.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-base/apache/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/php-base/apache/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-base/file/read.php" beforeDir="false" afterPath="$PROJECT_DIR$/php-base/file/read.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-base/http/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/php-base/http/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-base/linux/deepin/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/php-base/linux/deepin/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-base/linux/nginx/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/php-base/linux/nginx/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -22,21 +16,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="108">
-              <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php-base/linux/deepin/README.md">
+        <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="763">
-                <caret line="48" column="99" lean-forward="true" selection-start-line="48" selection-start-column="99" selection-end-line="48" selection-end-column="99" />
+              <first_editor relative-caret-position="189">
+                <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
               </first_editor>
               <second_editor />
             </state>
@@ -58,7 +43,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/php-practice/array/array_func.php" />
         <option value="$PROJECT_DIR$/php-practice/array/sort.php" />
         <option value="$PROJECT_DIR$/php-practice/file/demo.text" />
         <option value="$PROJECT_DIR$/php-practice/file/demo.txt" />
@@ -109,6 +93,7 @@
         <option value="$PROJECT_DIR$/php-base/http/README.md" />
         <option value="$PROJECT_DIR$/php-base/apache/README.md" />
         <option value="$PROJECT_DIR$/php-base/linux/deepin/README.md" />
+        <option value="$PROJECT_DIR$/php-base/linux/nginx/README.md" />
       </list>
     </option>
   </component>
@@ -158,7 +143,7 @@
               <item name="easter_php" type="462c0819:PsiDirectoryNode" />
               <item name="php-base" type="462c0819:PsiDirectoryNode" />
               <item name="linux" type="462c0819:PsiDirectoryNode" />
-              <item name="deepin" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -176,18 +161,18 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myProjects\easter_php\php-base\linux" />
       <recent name="D:\myProjects\easter_php\hphp\core" />
       <recent name="D:\myProjects\easter_php\hphp\app\smarty\templates\index" />
       <recent name="D:\myProjects\easter_php\hphp\lib" />
       <recent name="D:\myProjects\easter_php" />
-      <recent name="D:\myProjects\easter_php\php-practice\hphp\core" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myProjects\easter_php\php-base\linux\nginx" />
       <recent name="D:\myProjects\easter_php\php-base\linux\deepin" />
       <recent name="D:\myProjects\easter_php\php-base\apache" />
       <recent name="D:\myProjects\easter_php\php-practice\linux\deepin" />
       <recent name="D:\myProjects\easter_php\php-practice" />
-      <recent name="D:\easter_php\php-practice\Array" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -236,7 +221,7 @@
       <workItem from="1546691228904" duration="9716000" />
       <workItem from="1546757020103" duration="11003000" />
       <workItem from="1546769411892" duration="2793000" />
-      <workItem from="1546826411132" duration="6488000" />
+      <workItem from="1546826411132" duration="8981000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1544939444674</created>
@@ -245,17 +230,24 @@
       <option name="project" value="LOCAL" />
       <updated>1544939444674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jp">
+      <created>1546842243749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546842243749</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="98033000" />
+    <option name="totallyTimeSpent" value="100526000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="13" width="2532" height="1380" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16069975" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16069975" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -302,7 +294,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="jp" />
+    <option name="LAST_COMMIT_MESSAGE" value="jp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -321,12 +314,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php-base/file/install.lock.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-base/file/install.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/php-base/file/check.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
@@ -648,11 +635,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-base/apache/README.md">
+    <entry file="file://$PROJECT_DIR$/php-base/linux/deepin/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="351">
-            <caret line="13" column="7" selection-start-line="13" selection-start-column="7" selection-end-line="13" selection-end-column="7" />
+          <first_editor relative-caret-position="709">
+            <caret line="48" column="99" lean-forward="true" selection-start-line="48" selection-start-column="99" selection-end-line="48" selection-end-column="99" />
           </first_editor>
           <second_editor />
         </state>
@@ -665,11 +652,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-base/linux/deepin/README.md">
+    <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="763">
-            <caret line="48" column="99" lean-forward="true" selection-start-line="48" selection-start-column="99" selection-end-line="48" selection-end-column="99" />
+          <first_editor relative-caret-position="189">
+            <caret line="6" lean-forward="true" selection-start-line="6" selection-end-line="6" />
           </first_editor>
           <second_editor />
         </state>
