@@ -93,7 +93,7 @@ server {
 
 访问base.com,此时是没有找到的
 
-- 修改hosts
+- 修改/etc/hosts
 ```
 127.0.0.1  base.com
 ```
