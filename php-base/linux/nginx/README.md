@@ -97,7 +97,19 @@ server {
 ```
 127.0.0.1  base.com
 ```
+
 ![05](https://github.com/easterCat/easter_php/blob/master/php-base/linux/nginx/05.png?raw=true)
+
+- 查找本机ip
+`sudo ip address`
+
+- 然后将base.com在其他机器上映射到获取的ip
+```
+//在C:\Windows\System32\drivers\etc\hosts添加
+192.xxx.xxx.xxx  base.com
+```
+
+- 然后在浏览器输入base.com就ok了
 
 
 ***
