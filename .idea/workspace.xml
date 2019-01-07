@@ -2,24 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3b8c6aa0-b9ce-4123-8049-f77ead8511be" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/app/smarty/templates/index/render2.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/app/view/index/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/config/db_config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/config/route_config.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/core/common/db.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/core/conf.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/core/log.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hphp/core/render.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/hphp/.htaccess" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/.htaccess" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/hphp/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/autoload.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/autoload.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/common/function.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/common/function.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/route.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/route.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/hphp/core/vk.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/core/vk.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/php-practice/hphp/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/hphp/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/php-base/linux/nginx/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/php-base/linux/nginx/README.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,39 +11,11 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/hphp/composer.json</pharConfigPath>
+  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hphp/index.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/hphp/core/log.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-              <folding>
-                <element signature="e#6#84#0#PHP" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/hphp/composer.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="621">
-              <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -74,18 +30,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/php-fullpage/web/index.php" />
-        <option value="$PROJECT_DIR$/php-practice/study06/demo01.php" />
-        <option value="$PROJECT_DIR$/php-practice/study06/file.php" />
-        <option value="$PROJECT_DIR$/php-practice/Array/demo01.php" />
-        <option value="$PROJECT_DIR$/php-practice/Array/xuandawang.php" />
-        <option value="$PROJECT_DIR$/php-practice/Array/demo02.php" />
-        <option value="$PROJECT_DIR$/php-practice/Array/demo03.php" />
-        <option value="$PROJECT_DIR$/php-practice/Array/list.php" />
-        <option value="$PROJECT_DIR$/php-practice/Array/each.php" />
-        <option value="$PROJECT_DIR$/php-practice/Array/global.php" />
-        <option value="$PROJECT_DIR$/php-practice/array/index.php" />
-        <option value="$PROJECT_DIR$/php-practice/array/array_func.php" />
         <option value="$PROJECT_DIR$/php-practice/array/sort.php" />
         <option value="$PROJECT_DIR$/php-practice/file/demo.text" />
         <option value="$PROJECT_DIR$/php-practice/file/demo.txt" />
@@ -113,18 +57,43 @@
         <option value="$PROJECT_DIR$/php-practice/hphp/core/render.php" />
         <option value="$PROJECT_DIR$/php-practice/hphp/index.php" />
         <option value="$PROJECT_DIR$/hphp/app/smarty/templates/render2.html" />
-        <option value="$PROJECT_DIR$/hphp/core/render.php" />
-        <option value="$PROJECT_DIR$/hphp/core/conf.php" />
         <option value="$PROJECT_DIR$/hphp/config/route_config.php" />
         <option value="$PROJECT_DIR$/hphp/config/db_config.php" />
         <option value="$PROJECT_DIR$/hphp/core/route.php" />
         <option value="$PROJECT_DIR$/hphp/core/common/db.php" />
-        <option value="$PROJECT_DIR$/hphp/index.php" />
         <option value="$PROJECT_DIR$/hphp/log/log.php" />
-        <option value="$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php" />
+        <option value="$PROJECT_DIR$/hphp/.gitignore" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/hphp/core/render.php" />
+        <option value="$PROJECT_DIR$/hphp/index.php" />
+        <option value="$PROJECT_DIR$/hphp/core/conf.php" />
         <option value="$PROJECT_DIR$/hphp/composer.json" />
+        <option value="$PROJECT_DIR$/hphp/config/medoo_config.php" />
+        <option value="$PROJECT_DIR$/hphp/core/medoo.php" />
+        <option value="$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php" />
+        <option value="$PROJECT_DIR$/php-practice/http/redirect.php" />
+        <option value="$PROJECT_DIR$/php-practice/linux/deepin/README.md" />
+        <option value="$PROJECT_DIR$/php-practice/http/post.php" />
+        <option value="$PROJECT_DIR$/php-practice/http/cookie.php" />
+        <option value="$PROJECT_DIR$/php-practice/http/socket.php" />
+        <option value="$PROJECT_DIR$/php-practice/http/README.md" />
+        <option value="$PROJECT_DIR$/php-base/http/README.md" />
+        <option value="$PROJECT_DIR$/php-base/apache/README.md" />
+        <option value="$PROJECT_DIR$/php-base/linux/deepin/README.md" />
+        <option value="$PROJECT_DIR$/php-base/linux/nginx/README.md" />
       </list>
     </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/hphp/vendor/composer" />
+      <path value="$PROJECT_DIR$/hphp/vendor/smarty/smarty" />
+      <path value="$PROJECT_DIR$/hphp/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/hphp/vendor/filp/whoops" />
+      <path value="$PROJECT_DIR$/hphp/vendor/symfony/var-dumper" />
+      <path value="$PROJECT_DIR$/hphp/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/hphp/vendor/catfan/medoo" />
+    </include_path>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="14" />
@@ -148,26 +117,20 @@
             <path>
               <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
               <item name="easter_php" type="462c0819:PsiDirectoryNode" />
-              <item name="hphp" type="462c0819:PsiDirectoryNode" />
+              <item name="php-base" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
               <item name="easter_php" type="462c0819:PsiDirectoryNode" />
-              <item name="hphp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="php-base" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
               <item name="easter_php" type="462c0819:PsiDirectoryNode" />
-              <item name="hphp" type="462c0819:PsiDirectoryNode" />
-              <item name="app" type="462c0819:PsiDirectoryNode" />
-              <item name="ctrl" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="easter_php" type="b2602c69:ProjectViewProjectNode" />
-              <item name="easter_php" type="462c0819:PsiDirectoryNode" />
-              <item name="hphp" type="462c0819:PsiDirectoryNode" />
-              <item name="log" type="462c0819:PsiDirectoryNode" />
+              <item name="php-base" type="462c0819:PsiDirectoryNode" />
+              <item name="linux" type="462c0819:PsiDirectoryNode" />
+              <item name="nginx" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,21 +141,25 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api.photo" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../api.admin" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\easter_php\php-practice\Array" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\myProjects\easter_php\php-base\linux" />
       <recent name="D:\myProjects\easter_php\hphp\core" />
       <recent name="D:\myProjects\easter_php\hphp\app\smarty\templates\index" />
       <recent name="D:\myProjects\easter_php\hphp\lib" />
       <recent name="D:\myProjects\easter_php" />
-      <recent name="D:\myProjects\easter_php\php-practice\hphp\core" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\myProjects\easter_php\php-base\linux\nginx" />
+      <recent name="D:\myProjects\easter_php\php-base\linux\deepin" />
+      <recent name="D:\myProjects\easter_php\php-base\apache" />
+      <recent name="D:\myProjects\easter_php\php-practice\linux\deepin" />
+      <recent name="D:\myProjects\easter_php\php-practice" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -234,7 +201,14 @@
       <workItem from="1545186622982" duration="485000" />
       <workItem from="1546497162557" duration="611000" />
       <workItem from="1546518451727" duration="6884000" />
-      <workItem from="1546568539950" duration="14452000" />
+      <workItem from="1546568539950" duration="14564000" />
+      <workItem from="1546681662045" duration="1293000" />
+      <workItem from="1546683048544" duration="763000" />
+      <workItem from="1546684277868" duration="3656000" />
+      <workItem from="1546691228904" duration="9716000" />
+      <workItem from="1546757020103" duration="11003000" />
+      <workItem from="1546769411892" duration="2793000" />
+      <workItem from="1546826411132" duration="9142000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <created>1544939444674</created>
@@ -243,16 +217,51 @@
       <option name="project" value="LOCAL" />
       <updated>1544939444674</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="jp">
+      <created>1546842243749</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1546842243749</updated>
+    </task>
+    <task id="LOCAL-00003" summary="jp">
+      <created>1546848169525</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1546848169525</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62209000" />
+    <option name="totallyTimeSpent" value="100687000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="14" y="13" width="2532" height="1380" extended-state="0" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14930838" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16069975" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32943144" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48996654" />
+      <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Database" order="3" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15744507" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -265,31 +274,32 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.24498327" />
+      <window_info anchor="bottom" id="Terminal" order="10" weight="0.48996654" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Database" order="3" />
-    </layout>
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1" />
-    <option name="LAST_COMMIT_MESSAGE" value="1" />
+    <MESSAGE value="jp" />
+    <option name="LAST_COMMIT_MESSAGE" value="jp" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/php-practice/study06/file.php</url>
+          <url>file://$PROJECT_DIR$/php-base/study06/file.php</url>
           <line>25</line>
           <option name="timeStamp" value="1" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="php">
-          <url>file://$PROJECT_DIR$/php-practice/array/demo01.php</url>
+          <url>file://$PROJECT_DIR$/php-base/array/demo01.php</url>
           <line>9</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
@@ -297,109 +307,14 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/php-practice/study06/file.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="500">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/traverse.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/demo03.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/list.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="275">
-          <caret line="16" column="8" selection-start-line="16" selection-start-column="8" selection-end-line="16" selection-end-column="8" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/each.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/position.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="17" lean-forward="true" selection-start-line="17" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/demo02.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="725">
-          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/demo01.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="24" column="13" lean-forward="true" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="125">
-          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/global.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="6" column="3" lean-forward="true" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
-          <folding>
-            <element signature="e#6#85#0#PHP" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/xuandawang.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
-          <caret line="23" column="16" lean-forward="true" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/demo.text" />
-    <entry file="file://$PROJECT_DIR$/php-practice/file/demo.txt" />
-    <entry file="file://$PROJECT_DIR$/php-practice/file/read.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="750">
-          <caret line="35" selection-start-line="35" selection-end-line="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/install.lock.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/install.php">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/check.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/check.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="225">
           <caret line="9" lean-forward="true" selection-start-line="9" selection-end-line="9" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/unlink.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/unlink.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -409,28 +324,28 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/copy.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/copy.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/rename.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/rename.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="13" column="32" lean-forward="true" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/tmp.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/tmp.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="200">
           <caret line="13" column="11" lean-forward="true" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/write.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/write.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="600">
           <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
@@ -440,17 +355,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/message.txt">
+    <entry file="file://$PROJECT_DIR$/php-base/file/message.txt">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/writeMessage.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/writeMessage.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="375">
           <caret line="20" selection-start-line="20" selection-end-line="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/message.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/message.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="175">
           <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
@@ -460,7 +375,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/form.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/form.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="150">
           <caret line="11" selection-start-line="11" selection-end-line="11" />
@@ -470,14 +385,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/config.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="125">
           <caret line="5" column="2" selection-start-line="5" selection-start-column="2" selection-end-line="5" selection-end-column="2" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/file/changeConfig.php">
+    <entry file="file://$PROJECT_DIR$/php-base/file/changeConfig.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="450">
           <caret line="18" selection-start-line="18" selection-end-line="18" />
@@ -519,14 +434,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/sort.php">
+    <entry file="file://$PROJECT_DIR$/php-base/array/sort.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="44" column="19" selection-start-line="44" selection-start-column="19" selection-end-line="44" selection-end-column="19" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/php-practice/array/array_func.php">
+    <entry file="file://$PROJECT_DIR$/php-base/array/array_func.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="594">
           <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
@@ -557,20 +472,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hphp/core/render.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" column="34" lean-forward="true" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hphp/core/common/db.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="21" selection-start-line="21" selection-end-line="21" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hphp/config/db_config.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
@@ -592,20 +493,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hphp/core/conf.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="351">
-          <caret line="18" column="36" lean-forward="true" selection-start-line="18" selection-start-column="36" selection-end-line="18" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/hphp/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="28" selection-start-line="13" selection-start-column="28" selection-end-line="13" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/hphp/log/log_test-20190104105301.log">
       <provider selected="true" editor-type-id="LogFileEditorProvider" />
     </entry>
@@ -616,27 +503,161 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php">
+    <entry file="file://$PROJECT_DIR$/hphp/core/log.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="567">
-          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+        <state relative-caret-position="135">
+          <caret line="5" column="14" selection-start-line="5" selection-start-column="14" selection-end-line="5" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/hphp/core/log.php">
+    <entry file="file://$PROJECT_DIR$/hphp/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="15" column="56" lean-forward="true" selection-start-line="15" selection-start-column="56" selection-end-line="15" selection-end-column="56" />
-          <folding>
-            <element signature="e#6#84#0#PHP" expanded="true" />
-          </folding>
+        <state relative-caret-position="108">
+          <caret line="4" selection-start-line="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/render.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="837">
+          <caret line="31" column="1" lean-forward="true" selection-start-line="31" selection-start-column="1" selection-end-line="31" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/conf.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/common/db.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="28" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="24" column="37" selection-start-line="24" selection-start-column="37" selection-end-line="24" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/http/post.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/file/read.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/app/ctrl/indexCtrl.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/core/medoo.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/hphp/config/medoo_config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="351">
+          <caret line="13" column="24" selection-start-line="13" selection-start-column="24" selection-end-line="13" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/hphp/composer.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="3" selection-start-line="23" selection-start-column="3" selection-end-line="23" selection-end-column="3" />
+        <state relative-caret-position="864">
+          <caret line="32" selection-start-line="32" selection-end-line="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/http/redirect.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" column="8" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/http/post.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="297">
+          <caret line="16" selection-start-line="16" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/http/socket.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="52" lean-forward="true" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/http/cookie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="23" column="184" lean-forward="true" selection-start-line="23" selection-start-column="184" selection-end-line="23" selection-end-column="184" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/http/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="925">
+            <caret line="47" column="2" selection-start-line="47" selection-start-column="2" selection-end-line="47" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/http/cache.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="6" column="3" selection-start-line="6" selection-start-column="3" selection-end-line="6" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/linux/deepin/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="709">
+            <caret line="48" column="99" lean-forward="true" selection-start-line="48" selection-start-column="99" selection-end-line="48" selection-end-column="99" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/03.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/04.png">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/php-base/linux/nginx/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="925">
+            <caret line="55" column="2" selection-start-line="55" selection-start-column="2" selection-end-line="55" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
