@@ -6,7 +6,7 @@
 
 安装 xdebug helper
 ![19](https://github.com/easterCat/easter_php/blob/master/php-base/debug/19.png?raw=true)
-然后在选项中奖IDE key设置为phpstorm
+然后在选项中奖 IDE key 设置为 phpstorm
 
 #### phpstudy
 
@@ -75,8 +75,8 @@ xdebug.remote_port = 9000
 
 3. 在开启调试的时候，会在默认浏览器打开一个 tab，这个网址http://api.h5.com:5555/?XDEBUG_SESSION_START=12087，可以进入调试，那将?XDEBUG_SESSION_START=12087放到postman请求的网址后面就好了
 
-   ![12](https://github.com/easterCat/easter_php/blob/master/php-base/debug/12.png?raw=true)
-   进入 loading 了，非常好
+    ![12](https://github.com/easterCat/easter_php/blob/master/php-base/debug/12.png?raw=true)
+    进入 loading 了，非常好
 
 ![15](https://github.com/easterCat/easter_php/blob/master/php-base/debug/15.png?raw=true)
 
