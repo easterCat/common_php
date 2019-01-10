@@ -1,4 +1,4 @@
-#### 主体 php + phpstudy + phpstrom + xdubug + postman + vue + chrome
+#### 主体 php + phpstudy + phpstrom + xdebug + postman + vue + chrome
 
 使用的是前后端分离的开发方式，vue 在 webpack 通过代理进行请求转接，之前在使用 node 开发的时候进行断点调试能够根据请求的接口到达断点地方，按步查询代码的执行。然而在 php 对接口的调试就不是那么舒服了，目前的框架内部只实现了错误日志打印，不好更准确的定位问题的所在，于是就开始了前后端分离情况下 php 调试代码探寻。
 
