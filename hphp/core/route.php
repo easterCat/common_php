@@ -36,7 +36,7 @@ class route
 
             if (isset($path_arr[0])) {
 
-                if ($path_arr[0] != 'index.php') {
+                if ($path_arr[0] != 'add.php') {
                     $this->ctrl = $path_arr[0];
 
                     if (isset($path_arr[1])) {

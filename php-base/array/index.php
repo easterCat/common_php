@@ -6,7 +6,7 @@
  * Time: 14:09
  */
 
-echo "index.php";
+echo "add.php";
 
 echo "<pre>";
 print_r($GLOBALS);

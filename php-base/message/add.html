@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="main.css" rel="stylesheet" type="text/css">
+    <title>Title</title>
+    <?php include ("add.php")?>
+
+</head>
+<body>
+<b><a href="add.php">添加留言</a></b>
+<hr size=1>
+<form action="add.php" method="post">
+    用户：<input type="text" size="10" name="user"/><br>
+    标题：<input type="text" name="top"/><br>
+    内容：<textarea name="content"></textarea><br>
+    <input type="submit" name="submit" value="发布留言"/>
+</form>
+</body>
+</html>
